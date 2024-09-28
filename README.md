@@ -1,8 +1,7 @@
-# Control-of-Relay-Using-IoT-controller
-```
-Name: Ratheesh Kumar B R
-Reg No: 212223110040
-```
+## Name: Ratheesh Kumar B R
+## Reg No: 212223110040
+## EXP NO 2: Control of Relay Using IoT controller
+
 ##  AIM:
 To control the Relay using Arduino controller
 
@@ -59,7 +58,9 @@ void loop() {
 
 
 ## OUTPUT:
+## LIGHT ON
 ![Screenshot 2024-09-11 085620](https://github.com/user-attachments/assets/e97b2db5-570a-4668-a8d1-407a3aa306ab)
+## LIGHT OFF
 ![Screenshot 2024-09-11 085639](https://github.com/user-attachments/assets/6722bfe8-80b5-4a50-90b6-f5d36047ee96)
 
 
